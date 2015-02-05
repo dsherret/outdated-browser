@@ -195,10 +195,3 @@ var outdatedBrowser = function(options) {
         return false;
     }
 };
-
-
-
-
-
-
-
